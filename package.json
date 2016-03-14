@@ -1,7 +1,7 @@
 {
-  "name": "Utility Modules",
+  "name": "um",
   "version": "1.0.0",
-  "description": "usefull utilites",
+  "description": "Utility Modules",
   "scripts": {
     "watch": "webpack --watch"
   },
